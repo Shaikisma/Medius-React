@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is a assignment done for the React developer internship at Medius Technologies.
 
-## Getting Started
+## Assignment:
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Develop a multi-page web application using React with Next.js,
+replicating the design and basic functionality of four specific
+pages from the Better.com website.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. React and Next.js Application:
+   • Build the application using React with Next.js.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+2. Better.com Replica:
+Replicate the design and layout of the following pages:
+     • Home: https://better.com
+     • About Us: https://better.com/about-us/
+     • Mortgage Calculator: https://better.com/mortgage-calculator?taxes=265&zip=421005
+     • Start Page: https://better.com/start
 
-## Learn More
+3. Routing:
+   • Set up routing for the above four pages.
 
-To learn more about Next.js, take a look at the following resources:
+4. Interactive Components:
+   • Implement the Mortgage Calculator and relevant forms.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+5. Responsiveness:
+   • Ensure the site is fully responsive across devices.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+6. Styling:
+   • Style the application to closely match Better.com using CSS,
+     SCSS, or styled-components.
 
-## Deploy on Vercel
+7. Deployment:
+   • Deploy the application on Vercel, Netlify, or Heroku and
+     provide the URL.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Build website links
+
+1. Homepage: https://medius-react-internship.onrender.com
+
+2. Mortage calculator: https://medius-react-internship.onrender.com/mortage-calc
+
+3. about-us: https://medius-react-internship.onrender.com/about-us
+
+4. Start page: https://medius-react-internship.onrender.com/start
